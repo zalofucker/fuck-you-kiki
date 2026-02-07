@@ -1,1 +1,26 @@
-
+# Title: fuck-you-kiki (dnscloak)
+# Homepage: https://github.com/zalofucker/fuck-you-kiki
+# ..............
+*.stc-zlogin.zdn.vn
+*.id.zalo.me
+*.oauth.zaloapp.com
+*.zaloapp.com
+*.ztevents.zaloapp.com
+*.zalo-captcha.zdn.vn
+*.logo-zp.zdn.vn
+*.developers.zalo.me
+*.smarthome.kiki.zalo.ai
+*.api.kiki.zalo.ai
+*.kiki.zalo.ai
+*.zinst-stc.zadn.vn
+*.a-fg42.dlfl.vn
+*.a-fg40.dlfl.vn
+*.a-fg62.dlfl.vn
+*.res-zalo.zadn.vn
+*.a-fg63.dlfl.vn
+*.a-fg41.dlfl.vn
+*.log.api.zaloapp.com
+*.ads-platform.zalo.me
+*.zcaptcha.zdn.vn
+*.zalo-captcha.zdn.vn
+*.zcaptcha.api.zaloapp.com
