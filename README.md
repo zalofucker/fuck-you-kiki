@@ -1,4 +1,3 @@
-# fuck-you-kiki
 # **🛡️ Kiki  Blocker**
 #**HIỆN TẠI CHUNG TÔI CẦN HỖ TRỢ XÂY DỰNG README TRONG VIỆC CÁCH SETUP BLOCKLIST!?!?!?!**
 
@@ -266,8 +265,7 @@ Bước 3: Sử dụng lệnh sau để nhập dữ liệu:
 **Nếu bạn không muốn tạo file, bạn cũng có thể copy toàn bộ nội dung script và dán (Paste) trực tiếp vào cửa sổ New Terminal là được.**
 
 # 🤝 Đóng góp 
-## Hiện tại tôi rất cần các bạn tìm ra những phốt của zalo để tôi up lên README vậy nên nếu bạn nào có vui lòng tạo issue giúp tôi!?!?!?
 
-Dự án này cần sự chung tay của cộng đồng để liên tục cập nhật các tên miền mới của Zalo
+Dự án này cần sự chung tay của cộng đồng để liên tục cập nhật các tên miền mới của Kiki
 
 Tạo một Issue/Pull mới thông báo vấn đề về việc chặn thiếu/bổ sung.
