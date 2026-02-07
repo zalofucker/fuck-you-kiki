@@ -1,1 +1,40 @@
+# Title: fuck-you-kiki (host)
+# Homepage: https://github.com/zalofucker/fuck-you-kiki
+# ..............
 
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+0.0.0.0 stc-zlogin.zdn.vn
+0.0.0.0 id.zalo.me
+0.0.0.0 oauth.zaloapp.com
+0.0.0.0 zaloapp.com
+0.0.0.0 ztevents.zaloapp.com
+0.0.0.0 zalo-captcha.zdn.vn
+0.0.0.0 logo-zp.zdn.vn
+0.0.0.0 developers.zalo.me
+0.0.0.0 smarthome.kiki.zalo.ai
+0.0.0.0 api.kiki.zalo.ai
+0.0.0.0 kiki.zalo.ai
+0.0.0.0 zinst-stc.zadn.vn
+0.0.0.0 a-fg42.dlfl.vn
+0.0.0.0 a-fg40.dlfl.vn
+0.0.0.0 a-fg62.dlfl.vn
+0.0.0.0 res-zalo.zadn.vn
+0.0.0.0 a-fg63.dlfl.vn
+0.0.0.0 a-fg41.dlfl.vn
+0.0.0.0 log.api.zaloapp.com
+0.0.0.0 ads-platform.zalo.me
+0.0.0.0 zcaptcha.zdn.vn
+0.0.0.0 zcaptcha.api.zaloapp.com
