@@ -1,5 +1,5 @@
-# Title: fuck-you-zalo (adblocker)
-# Homepage: https://github.com/zalofucker/fuck-you-zalo
+# Title: fuck-you-kiki (adblocker)
+# Homepage: https://github.com/zalofucker/fuck-you-kiki
 # ..............
 ||stc-zlogin.zdn.vn^
 ||id.zalo.me^
