@@ -1,0 +1,26 @@
+# Title: fuck-you-kiki (unbounddns)
+# Homepage: https://github.com/zalofucker/fuck-you-kiki
+# ..............
+local-zone: "stc-zlogin.zdn.vn" always_null
+local-zone: "id.zalo.me" always_null
+local-zone: "oauth.zaloapp.com" always_null
+local-zone: "zaloapp.com" always_null
+local-zone: "ztevents.zaloapp.com" always_null
+local-zone: "zalo-captcha.zdn.vn" always_null
+local-zone: "logo-zp.zdn.vn" always_null
+local-zone: "developers.zalo.me" always_null
+local-zone: "smarthome.kiki.zalo.ai" always_null
+local-zone: "api.kiki.zalo.ai" always_null
+local-zone: "kiki.zalo.ai" always_null
+local-zone: "zinst-stc.zadn.vn" always_null
+local-zone: "a-fg42.dlfl.vn" always_null
+local-zone: "a-fg40.dlfl.vn" always_null
+local-zone: "a-fg62.dlfl.vn" always_null
+local-zone: "res-zalo.zadn.vn" always_null
+local-zone: "a-fg63.dlfl.vn" always_null
+local-zone: "a-fg41.dlfl.vn" always_null
+local-zone: "log.api.zaloapp.com" always_null
+local-zone: "ads-platform.zalo.me" always_null
+local-zone: "zcaptcha.zdn.vn" always_null
+local-zone: "zalo-captcha.zdn.vn" always_null
+local-zone: "zcaptcha.api.zaloapp.com" always_null
