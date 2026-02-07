@@ -16,7 +16,7 @@ Mục đích duy nhất là tôi ghét kiki vãi cả l.
 Tôi kbt nói gì nhưng kiki là của zalo nên là cứ thể th ㄟ( ▔, ▔ )ㄏ
 
 Bộ lọc này được tạo ra nhằm mục đích:
- 1. Chặn sạch, chặn cứng zalo, chặn không thiếu cái gì cả
+ 1. Chặn sạch, chặn cứng kiki, chặn không thiếu cái gì cả
  2. Giúp người dùng chuyển sang nền tảng khác
 
 # **🛠️ Hướng dẫn cài đặt**
